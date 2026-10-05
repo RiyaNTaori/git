@@ -1,2 +1,4 @@
 # git
-Author - Riya
+Author - Riya Taori
+
+
